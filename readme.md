@@ -4,8 +4,6 @@ Typescript exercises included in the coding abilities challenge.
 
 ## How to run the project
 
----
-
 Steps to run the project locally:
 
 1. Download or clone the project.
@@ -15,8 +13,6 @@ Steps to run the project locally:
 5. Run `yarn test` or `npm run test` to run the tests.
 
 ## Exercises
-
----
 
 The exercises are located in the `src/exercises/` folder, one file for every exercise.
 
@@ -60,14 +56,10 @@ Available in `src/exercises/reversePolishCalculator.ts`
 
 ## Tests
 
----
-
 The tests are available in the `test/` folder, one file for every exercise. Tests were implemented with [Jest](https://jestjs.io/).
 To generate code coverage run `yarn testc` or `npm run testc`.
 
 ## Environment configurations
-
----
 
 - node v12.18.2
 - typescript v4.5.2
